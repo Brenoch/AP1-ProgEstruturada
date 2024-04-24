@@ -174,6 +174,7 @@ def main():
 
     tesouro = gerar_tesouro()
 
+
     aventureiro["nome"] = input("Deseja buscar um tesouro? Primeiro, informe seu nome: ")
     print(f"Saudações, {aventureiro["nome"]}! Boa sorte!")
 
