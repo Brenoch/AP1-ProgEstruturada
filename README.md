@@ -1,4 +1,5 @@
-nomes
+Alunos Participantes: 
+
 Breno Chaves da Cunha
-Mateus Sanchinho
+Mateus de Macedo Coelho Sachinho
 Pedro Macedo de Araujo
